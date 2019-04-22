@@ -7,3 +7,13 @@ System.out.println("hello World");
 
 }//end of method main
 }//end of class input
+
+
+class print{
+
+static void print(){
+System.out.println("hi prigramer")
+}
+
+
+}
