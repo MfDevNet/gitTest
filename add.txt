@@ -10,7 +10,7 @@ Scanner scan=new Scanner(System.in);
 
 }//end of method main
 }//end of class input
-
+//add commont
 
 class print{
 
